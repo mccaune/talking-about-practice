@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(89deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+#title {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    width: 100%;
+}
+
+h5{
+    font: 900 1.1em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    letter-spacing: .1em;
+    width: 100%;
+}
+
+h4{
+    font: 600 1.5em 'Raleway', sans-serif;
+    color: rgba(0, 0, 0, .5);
+    letter-spacing: .1em;
+    width: 100%;
+}
+
+.taskSize {
+    max-width: 55rem;
+}
+
+.changeColor {
+    background: lightgreen;
+}
+
+.center {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
