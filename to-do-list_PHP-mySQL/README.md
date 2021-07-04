@@ -1,6 +1,6 @@
-#To-do-list_PHP-mySQL
+# To-do-list_PHP-mySQL
 
-##Installation:
+## Installation:
 
 1. Import "to_do.sql" to your database
 ```
@@ -17,11 +17,17 @@ $dbPassword = 'root';
 $dbName = "to_do";
 ```
 
-3. As email was blocking scrip.js file, you must change extension from script.txt to script.js
-
-4. Run PHP environment
+3. Run PHP environment
 ```
 php -S localhost:4000
 ```
 
+## Functions:
 
+* User can add task to to-do list
+* User can edit any added task
+* User can delete any added task
+* User can mark task as done
+* All tasks are saved in mySQL database
+
+![To-do list PHP mySQL Demo](demo/to-do-list_PHP-mySQL.gif)
