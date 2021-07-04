@@ -22,7 +22,7 @@ $dbName = "to_do";
 php -S localhost:4000
 ```
 
-## Functions:
+## Description:
 
 * User can add task to to-do list
 * User can edit any added task

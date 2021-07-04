@@ -4,7 +4,7 @@
 
 * Copy files to yout pc and open index.html file
 
-## Functions:
+## Description:
 
 * Generates random linear gradient
 * Ability to set gradient manually

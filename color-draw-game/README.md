@@ -1,13 +1,13 @@
-# background-generator
+# color-draw-game
 
 ## Installation:
 
 * Copy files to yout pc and open index.html file
 
-## Functions:
+## Description:
 
-* Generates random linear gradient
-* Ability to set gradient manually
-* Ability to copy current gradient settings for future use
+* You must find hidden button by coloring empty space
+* button appears in random locations within drawing area
+* game ends, when you click hidden button
 
-![Background generator Demo](demo/background-generator.gif)
+![Color draw game Demo](demo/color-draw-game.gif)
