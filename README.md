@@ -1,13 +1,21 @@
-# talking-about-practice-1
-Various assignments, exercises, homeworks. Not a game.
-
-# Table of Contents
-
-
 - [Heading](#heading)
+  * [Sub-heading](#sub-heading)
+  * [Sub-heading](#sub-heading-1)
 - [Heading](#heading-1)
+  * [Sub-heading](#sub-heading-2)
+  * [Sub-heading](#sub-heading-3)
 - [Heading](#heading-2)
+  * [Sub-heading](#sub-heading-4)
+- [Heading](#heading-3)
+  * [Sub-heading](#sub-heading-5)
+  * [Sub-heading](#sub-heading-6)
 
+
+# talking-about-practice
+
+> Various assignments, exercises, homeworks. Not a game.
+
+<!-- toc -->
 
 ## background-generator
 
@@ -23,6 +31,7 @@ Various assignments, exercises, homeworks. Not a game.
 
 ![Background generator Demo](background-generator/demo/background-generator.gif)
 
+
 ## color-draw-game
 
 ### Installation:
@@ -36,6 +45,7 @@ Various assignments, exercises, homeworks. Not a game.
 * game ends, when you click hidden button
 
 ![Color draw game Demo](color-draw-game/demo/color-draw-game.gif)
+
 
 
 ## python-for-everyone-exercises
@@ -93,4 +103,5 @@ php -S localhost:4000
 * All tasks are saved in mySQL database
 
 ![To-do list PHP mySQL Demo](to-do-list_PHP-mySQL/demo/to-do-list_PHP-mySQL.gif)
+
 
