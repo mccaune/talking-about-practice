@@ -3,10 +3,10 @@ Various assignments, exercises, homeworks. Not a game.
 
 # Table of Contents
 
-* [background-generator](#sub-heading)
-* [color-draw-game](#sub-heading-1)
-* [python-for-everyone-exercises](#sub-heading-2)
-* [To-do-list_PHP-mySQL](#sub-heading-3)
+
+- [Heading](#heading)
+- [Heading](#heading-1)
+- [Heading](#heading-2)
 
 
 ## background-generator
