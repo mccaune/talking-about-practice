@@ -1,14 +1,14 @@
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-  * [Sub-heading](#sub-heading-1)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-2)
-  * [Sub-heading](#sub-heading-3)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-4)
-- [Heading](#heading-3)
-  * [Sub-heading](#sub-heading-5)
-  * [Sub-heading](#sub-heading-6)
+- [background-generator](#heading)
+  * [Installation](#sub-heading)
+  * [Description](#sub-heading-1)
+- [color-draw-game](#heading-1)
+  * [Installation](#sub-heading-2)
+  * [Description](#sub-heading-3)
+- [python-for-everyone-exercises](#heading-2)
+  * [Installation](#sub-heading-4)
+- [To-do-list_PHP-mySQL](#heading-3)
+  * [Installation](#sub-heading-5)
+  * [Description](#sub-heading-6)
 
 
 # talking-about-practice
@@ -19,11 +19,11 @@
 
 ## background-generator
 
-### Installation:
+### Installation
 
 * Copy files to yout pc and open index.html file
 
-### Description:
+### Description
 
 * Generates random linear gradient
 * Ability to set gradient manually
@@ -34,11 +34,11 @@
 
 ## color-draw-game
 
-### Installation:
+### Installation
 
 * Copy files to yout pc and open index.html file
 
-### Description:
+### Description
 
 * You must find hidden button by coloring empty space
 * button appears in random locations within drawing area
@@ -56,7 +56,7 @@ In each .py fole you can see exercise description and solution below.
 
 You can get it for free here: [https://www.py4e.com/book](https://www.py4e.com/book) 
 
-### Installation:
+### Installation
 
 1. copy files to your pc 
 
@@ -72,7 +72,7 @@ cwen@iupui.edu   5
 
 ## To-do-list_PHP-mySQL
 
-### Installation:
+### Installation
 
 1. Import "to_do.sql" to your database
 ```
@@ -94,7 +94,7 @@ $dbName = "to_do";
 php -S localhost:4000
 ```
 
-### Description:
+### Description
 
 * User can add task to to-do list
 * User can edit any added task
