@@ -1,14 +1,7 @@
-- [background-generator](#heading)
-  * [Installation](#sub-heading)
-  * [Description](#sub-heading-1)
-- [color-draw-game](#heading-1)
-  * [Installation](#sub-heading-2)
-  * [Description](#sub-heading-3)
-- [python-for-everyone-exercises](#heading-2)
-  * [Installation](#sub-heading-4)
-- [To-do-list_PHP-mySQL](#heading-3)
-  * [Installation](#sub-heading-5)
-  * [Description](#sub-heading-6)
+- [background-generator](https://github.com/mccaune/talking-about-practice#background-generator)
+- [color-draw-game](https://github.com/mccaune/talking-about-practice#color-draw-game)
+- [python-for-everyone-exercises](https://github.com/mccaune/talking-about-practice#python-for-everyone-exercises)
+- [To-do-list_PHP-mySQL](https://github.com/mccaune/talking-about-practice#To-do-list_PHP-mySQL)
 
 
 # talking-about-practice
